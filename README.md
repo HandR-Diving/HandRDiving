@@ -115,8 +115,9 @@ window.EMAILJS_CONFIG = {
 The contact-form fields are mapped to the following EmailJS template variables:
 
 * `name`
-* `email`
 * `phone`
+* `email`
+* `service`
 * `message`
 
 > **Security note:** Only the EmailJS public key should be included in frontend code. Never place private keys, account passwords, administrative credentials, or other sensitive information in this repository.
