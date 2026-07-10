@@ -1,7 +1,7 @@
 window.EMAILJS_CONFIG = {
-  publicKey: 'TODO',
-  serviceId: 'TODO',
-  templateId: 'TODO',
+  publicKey: 'hEqYdVKgZBZRzYLsF',
+  serviceId: 'service_sjzwuze',
+  templateId: 'template_c3tbr69',
   options: {
     blockHeadless: true,
     limitRate: {
